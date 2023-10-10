@@ -21,7 +21,7 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Web capture_10-10-2023_163744_sookchand github io](https://github.com/Sookchand/HTML-portfolio/assets/34344439/e99311a0-1bb8-4939-9dbc-565bce692bb2)
 
 
 ## Tech Stack
